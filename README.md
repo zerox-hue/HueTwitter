@@ -2,6 +2,7 @@
 *- PLugin permettant d'intégrer une application twitter au jeu Nova Life : Amboise*
 ## 📦 Fonctionnalités 
 *- Permet de poster un tweet grâce au /twitter !*
+
 *- Permet de voir tous les tweets grâce au /twitter et les supprimer si on est admin (le niveau admin minimum est configurable pour supprimer un tweet dans le json) !*
 
 # 👷 Installation 
